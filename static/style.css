@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Kalam:wght@300;400;700&family=Nanum+Brush+Script&family=Niconne&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins&family=Rancho&family=Roboto:ital,wght@0,100..900;1,100..900&family=Schoolbell&family=Short+Stack&display=swap');
+
+
+*{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #0d1117;
+  font-family: 'Segoe UI', sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-box {
+  width: 400px;
+  background: #161b22;
+  padding: 40px 30px;
+  box-shadow: 0 0 20px #58a6ff;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+.login-box h1 {
+  font-weight: 600;
+  font-style: normal;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  margin-bottom: 8px;
+  font-size: 15px;
+  color: #c9d1d9;
+}
+
+.form-group input {
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  background-color: #0d1117;
+  color: #ffffff;
+  outline: none;
+}
+
+.btn {
+  padding: 12px;
+  font-size: 16px;
+  background-color: #238636;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background-color: #2ea043;
+}
