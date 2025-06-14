@@ -25,6 +25,7 @@ A simple yet effective Python-based honeypot that simulates an admin login porta
 
 ## 📂 File Structure
 
+<pre>
 honeypot/
 ├── honeypot.py
 ├── requirements.txt
@@ -37,6 +38,7 @@ honeypot/
 │ ├── access_logs.jsonl
 │ └── login_attempts.jsonl
 └── README.md
+</pre>
 
 
 ## 🚀 Getting Started
