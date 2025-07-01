@@ -78,8 +78,6 @@ python honeypot.py
 
 ## 📊 Sample Log Output
 
-## 📊 Sample Log Output
-
 ```json
 {
   "timestamp": "2025-06-10T10:33:00.458694",
