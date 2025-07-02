@@ -2,7 +2,7 @@
 
 **Track & Analyze Intrusion Attempts with a Low-Interaction Honeypot**
 
-![Honeypot Banner](https://chandruthehacker.github.io/portfolio/projects/all-projects/honeypot/assets/images/honeypot.png)
+![Honeypot Banner](https://chandruthehacker.github.io/portfolio/projects/all-projects/honeypot/assets/images/honeypot.webp)
 
 ## 🔍 Project Overview
 
