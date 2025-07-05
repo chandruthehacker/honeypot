@@ -91,8 +91,8 @@ python honeypot.py
 ```
 
 ## 🌐 Project Details
-- [Blog](https://chandruthehacker.github.io/portfolio/projects/all-projects/honeypot/honeypot.html)
-- [View All Projects](https://chandruthehacker.github.io/portfolio/projects/projects.html)
+- [Blog](https://chandruthehacker.github.io/portfolio-website-old/projects/all-projects/honeypot/honeypot.html)
+- [View All Projects](https://chandruthehacker.github.io/portfolio-website-old/projects/projects.html)
 
 ---
 
